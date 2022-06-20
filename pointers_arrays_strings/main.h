@@ -13,6 +13,7 @@ void puts_half(char *str);
 void print_array(int *a, int n);
 void print_number(int n);
 char *_strcpy(char *dest, char *src);
+char *_strpbrk(char *s, char *accept)
 char *infinite_add(char *n1, char *n2, char *r, int size_r);
 int _atoi(char *s);
 
